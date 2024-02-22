@@ -1,0 +1,52 @@
+.table-auto {
+    width: auto;
+    margin: 1em 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  
+  .table-auto th,
+  .table-auto td {
+    border: 1px solid #e2e8f0;
+    padding: 0.5em 1em;
+  }
+  
+  .table-auto th {
+    font-weight: bold;
+    background-color: #edf2f7;
+    color: #2d3748;
+    border-bottom: 2px solid #e2e8f0;
+  }
+  
+  .bg-blue-500 {
+    background-color: #3b82f6;
+  }
+  
+  .bg-blue-500:hover {
+    background-color: #2563eb;
+  }
+  
+  .bg-green-500 {
+    background-color: #48bb78;
+  }
+  
+  .bg-green-500:hover {
+    background-color: #38a169;
+  }
+  
+  .bg-red-500 {
+    background-color: #f56565;
+  }
+  
+  .bg-red-500:hover {
+    background-color: #e53e3e;
+  }
+  
+  .bg-yellow-500 {
+    background-color: #ecc94b;
+  }
+  
+  .bg-yellow-500:hover {
+    background-color: #d69e2e;
+  }
+  
